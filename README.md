@@ -1,6 +1,6 @@
 ### Hello My name is Rodrigo Toller! 😊
 
-![ Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoToller&show_icons=true&theme=midnight-purple)
+![ Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoToller&show_icons=true&theme=maroongold )
 
 ### My  technologies 🎲
 
