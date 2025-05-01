@@ -12,7 +12,9 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt"typescript" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6"
+    <img align="center" alt"typescript" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6">
+    <img align="center" alt"angularjs" src="https://img.shields.io/badge/AngularJS-angular?style=for-the-badge&logo=angular&logoColor=white&labelColor=%23E8443F&color=%23E8443F">
+
 </div>
 
 
