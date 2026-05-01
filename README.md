@@ -1,5 +1,8 @@
 ### Hello! I'm Rodrigo Toller 👋
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoToller)](https://github.com/RodrigoToller/github-readme-stats)
+
+
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoToller&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoToller&layout=compact&theme=radical"/>
@@ -31,5 +34,3 @@
 
 **Backend / Tools**
 - Python | .NET | SharePoint | Power Apps
-
-![snake gif](https://github.com/RodrigoToller/RodrigoToller/blob/output/github-contribution-grid-snake.svg)
