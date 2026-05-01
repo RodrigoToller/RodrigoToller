@@ -1,6 +1,6 @@
 ### Hello! I'm Rodrigo Toller 👋
 
-[![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoToller)](https://github.com/RodrigoToller/github-readme-stats)
+[![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoToller)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
