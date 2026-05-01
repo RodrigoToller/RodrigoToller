@@ -1,8 +1,9 @@
 ### Hello My name is Rodrigo Toller! 😊
 
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoToller&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RodrigoToller&theme=tokyonight)
 ### My  technologies 🎲
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoToller&layout=compact&theme=tokyonight)
 
 <div style = "display: inline_block"></br>
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
