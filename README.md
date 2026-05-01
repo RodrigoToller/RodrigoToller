@@ -1,7 +1,7 @@
 ### Hello! I'm Rodrigo Toller 👋
 
 
-<p align="center">
+<p >
   <img src="https://streak-stats.demolab.com/?user=RodrigoToller&theme=radical"/>
 </p>
 
